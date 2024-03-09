@@ -5,6 +5,7 @@
 
 ### Instructions to run
 
-	npm install /n npm start
+	npm install 
+ 	npm start
 
  Note: make sure you download the current updated version of npm. 
