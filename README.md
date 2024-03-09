@@ -1,7 +1,6 @@
-# Wiki Women Hackathon 
-# Team IIIT H - A
+# Wiki Women Hackathon : 
 
-## Team Member names:
+## Team IIIT H - A : Team Member names:
 ### Anantha Lakshmi Yadavalli
 ### Nanditha Merugu
 ### Greeshma Amaraneni
